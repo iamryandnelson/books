@@ -1,0 +1,296 @@
+body {
+    background-color: #222;
+    font-size: 12px;
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+header {
+    background-color: #222;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+.controls {
+    margin: 15px 0 15px 0;
+    text-align: center;
+}
+
+.controls .filter {
+    display: inline-block;
+}
+
+.controls .sort {
+    display: inline-block;
+}
+
+.controls select {
+    appearance: none;
+    background: none;
+    border: 2px solid rgba(255, 255, 255, 1);
+    border-radius: 0;
+    box-shadow: none;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    font-size: 12px;
+    margin-left: 20px;
+    padding: 5px 10px;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+    -webkit-box-sizing: border-box;
+    -moz-appearance: none;
+    -moz-border-radius: 0;
+    -moz-box-sizing: border-box;
+    width: 200px;
+}
+
+option {
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+}
+
+select {
+    appearance: none;
+    -moz-appearance: none;
+    -webkit-appearance: none;
+}
+
+.search {
+    display: inline-block;
+}
+
+.search-book {
+    background: none;
+    border: 2px solid rgba(255, 255, 255, 1);
+    border-radius: 0;
+    box-shadow: none;
+    box-sizing: border-box;
+    color: #fff;
+    font-size: 12px;
+    margin-left: 20px;
+    padding: 5px 10px;
+    -moz-appearance: none;
+    -moz-border-radius: 0;
+    -moz-box-sizing: border-box;
+    -webkit-appearance: none;
+    -webkit-border-radius: 0;
+    -webkit-box-sizing: border-box;
+    width: 200px;
+}
+
+.search-book::placeholder {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.container-fluid {
+    margin: 60px auto;
+    position: relative;
+    text-align: center;
+}
+
+.flip-container {
+    display: inline-block;
+    margin: 10px;
+    perspective: 1000;
+    -webkit-perspective: 1000;
+}
+
+.flip-container:hover .flipper,
+.flip-container.hover .flipper {
+    transform: rotateY(180deg);
+}
+
+.flip-container,
+.front,
+.back {
+    height: 400px;
+    width: 273px;
+}
+
+.flipper {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: 0.6s;
+}
+
+.front,
+.back {
+    backface-visibility: hidden;
+    left: 0;
+    position: absolute;
+    top: 0;
+    transition: 0.6s;
+    -webkit-backface-visibility: hidden;
+    -webkit-transition: 0.6s;
+}
+
+.front {
+    transform: rotateY(0deg);
+    z-index: 2;
+}
+
+.poster {
+    height: 400px;
+    width: 273px;
+}
+
+.back {
+    background-color: #fff;
+    overflow-y: auto;
+    text-align: left;
+    transform: rotateY(180deg);
+}
+
+.back ul {
+    margin: 16px;
+}
+
+.original_title {
+    font-size: 20px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.pages {
+    margin-top: 10px;
+}
+
+.psudo-runtime {
+    display: none;
+}
+
+.psudo-release_date {
+    display: none;
+}
+
+.trailer {
+    margin-top: 10px;
+}
+
+.aTrailer {
+    color: black;
+    text-decoration: none;
+}
+
+.wikipedia {
+    margin-top: 10px;
+}
+
+.aWikipedia {
+    color: black;
+    text-decoration: none;
+}
+
+/* icon */
+.fa {
+    margin-right: 5px;
+}
+
+.featherlight .featherlight-content {
+    height: 80vh;
+    overflow: hidden;
+    width: 80%;
+}
+
+.featherlight .featherlight-content iframe {
+    height: 100%;
+    width: 100%;
+}
+
+footer {
+    color: #fff;
+    font-size: 10px;
+    font-weight: 100;
+    line-height: 16px;
+    margin: 0 auto 30px auto;
+    opacity: 0.3;
+    padding-bottom: 20px;
+    text-align: left;
+    width: 90%;
+}
+
+.footer-title {
+    font-size: 12px;
+    line-height: 18px;
+}
+
+footer a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    text-decoration: none;
+}
+
+.footer-thanks-goodreads {
+    border-left: 4px solid #fff;
+    display: inline-block;
+    padding-left: 18px;
+    text-align: left;
+    width: 26%;
+}
+
+.footer-thanks-artists {
+    border-left: 4px solid #fff;
+    display: inline-block;
+    margin-left: 2%;
+    padding-left: 18px;
+    text-align: left;
+    vertical-align: top;
+    width: 66%;
+}
+
+.footer-thanks-artists ul {
+    margin: 10px 0 0 0;
+}
+
+.footer-thanks-artists ul li {
+    display: inline;
+}
+
+.footer-thanks-artists ul li:after {
+    content: " | ";
+}
+
+.footer-thanks-artists ul li:last-child:after {
+    content: "";
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+@media (max-width: 878px) {
+    .footer-thanks-goodreads {
+        margin: 0 0 20px 0;
+        width: 90%;
+    }
+    .footer-thanks-artists {
+        margin: 0 auto 20px auto;
+        width: 90%;
+    }
+}
+
+@media (max-width: 666px) {
+    .container-fluid {
+        margin: 90px auto;
+        position: relative;
+        text-align: center;
+    }
+}
+
+@media (max-width: 443px) {
+    .container-fluid {
+        margin: 120px auto;
+        position: relative;
+        text-align: center;
+    }
+}

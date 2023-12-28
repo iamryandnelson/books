@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+
+    <title>Books</title>
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+    <link href="https://cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.css" type="text/css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="css/font-awesome.min.css"> -->
+    <link rel="stylesheet" href="css/books.css">
+    <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.1/lazyload.js"></script>
+
+</head>
+<style>
+    .controls option {
+        color: black;
+    }
+</style>
+
+<body>
+
+    <header>
+        <div class="controls">
+            <select class="filter"></select>
+
+            <select class="sort">
+                <option data-sort-value="">None</option>
+                <option data-sort-value="titleAscending">Title: A > Z</option>
+                <option data-sort-value="titleDescending">Title: Z > A</option>
+                <option data-sort-value="pageShort">Pages: Short > Long</option>
+                <option data-sort-value="pageLong">Pages: Long > Short</option>
+                <option data-sort-value="releaseNew">Release Date: New > Old</option>
+                <option data-sort-value="releaseOld">Release Date: Old > New</option>
+            </select>
+
+            <div class="search">
+                <input type="search" class="search-book" placeholder="Search book">
+            </div>
+
+        </div>
+    </header>
+
+    <div class="container-fluid"></div>
+
+    <footer>
+        <div class="footer-thanks-goodreads">
+            <div class="footer-title">This site uses the <a href="https://www.goodreads.com" target="_blank">Goodreads</a> API but is not endorsed or certified by Goodreads</div>
+        </div>
+    </footer>
+
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.4/isotope.pkgd.js"></script>
+<script src="https://cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="js/books.js?v=<?= time() ?>"></script>
+
+</html>
