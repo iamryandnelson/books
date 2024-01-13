@@ -2390,7 +2390,7 @@ const booksData = [
     },
     {
         isbn: 9781510766808,
-        title: "Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public Health",
+        title: "The Real Anthony Fauci: Bill Gates, Big Pharma, and the Global War on Democracy and Public Health",
         overview: "As director of the National Institute of Allergy and Infectious Diseases (NIAID), Dr. Anthony Fauci dispenses $6.1 billion in annual taxpayer-provided funding for rigged scientific research, allowing him to dictate the subject, content, and outcome of scientific health research across the globe—truly a dark agenda. Fauci uses the financial clout at his disposal in a back handed manner to wield extraordinary influence over hospitals, universities, journals, and thousands of influential doctors and scientists—whose careers and institutions he has the power to ruin, advance, or reward in an authoritarian manner. <p> During more than a year of painstaking and meticulous research on his laptop and through interviews, Robert F. Kennedy Jr. unearthed a shocking story that obliterates media spin on Dr. Fauci . . . and that will alarm every American—Democrat or Republican—who cares about democracy, our Constitution, and the future of our children’s health. <p> The Real Anthony Fauci reveals how “America’s Doctor” launched his career during the early AIDS crisis by partnering with pharmaceutical companies to sabotage safe and effective off-patent therapeutic treatments for AIDS. Fauci orchestrated fraudulent do-nothing studies, and then pressured US Food and Drug Administration (FDA) regulators into approving a deadly chemotherapy treatment he had good reason to know was worthless against AIDS. Fauci did the unthinkable and repeatedly violated federal laws to allow his Pharma partners to use impoverished and dark-skinned children as lab rats in beyond order, deadly experiments with toxic AIDS and cancer chemotherapies. <p> In early 2000, Fauci shook hands with Bill Gates in the library of Gates’ $147 million Seattle mansion, cementing a partnership that would aim to control an increasingly profitable $60 billion global vaccine enterprise with unlimited growth potential. Through funding leverage and carefully cultivated personal relationships with heads of state and leading media and social media institutions, the Pharma-Fauci-Gates alliance exercises dominion over global health policy and our beautiful country. <p> This is not just another political book. The Real Anthony Fauci details how Fauci, Gates, and their cohorts use their control of media outlets—both conservative and liberal leaning, scientific journals, key government and quasi-governmental agencies, global intelligence agencies, and influential scientists and physicians to flood the public with fearful propaganda about COVID-19 virulence and pathogenesis, and to muzzle debate and ruthlessly censor dissent.",
         pages: "492",
         author: "Robert F. Kennedy Jr.",
@@ -2651,6 +2651,17 @@ const booksData = [
         wikipedia: "Underboss_(book)",
         poster: "img/underboss.jpg",
         genre: ["True Crime", "Nonfiction", "Biography", "Crime", "History", "Memoir"]
+    },
+    {
+        isbn: 9780399161285,
+        title: "Undisputed Truth",
+        overview: "Philosopher, Broadway headliner, fighter, felon—Mike Tyson has defied stereotypes, expectations, and a lot of conventional wisdom during his three decades in the public eye. Bullied as a boy in the toughest, poorest neighborhood in Brooklyn, Tyson grew up to become one of the most thrilling and ferocious boxers of all time—and the youngest heavyweight champion ever. But his brilliance in the ring was often compromised by reckless behavior. Years of hard partying, violent fights, and criminal proceedings took their toll: by 2003, Tyson had hit rock bottom, a convicted felon, completely broke, the punch line to a thousand bad late-night jokes. Yet he fought his way back; the man who once admitted being addicted \"to everything\” regained his success, his dignity, and the love of his family. With a triumphant one-man stage show, his unforgettable performances in the Hangover films, and his newfound happiness and stability as a father and husband, Tyson’s story is an inspiring American original. <p> Brutally honest, raw, and often hilarious, Tyson chronicles his tumultuous highs and lows in the same sincere, straightforward manner we have come to expect from this legendary athlete. A singular journey from Brooklyn’s ghettos to worldwide fame to notoriety, and, finally, to a tranquil wisdom, Undisputed Truth is not only a great sports memoir but an autobiography for the ages.",
+        pages: "592",
+        author: "Mike Tyson, Larry Sloman",
+        release_date: "November 28, 2013",
+        wikipedia: "Mike_Tyson",
+        poster: "img/undisputed_truth.jpg",
+        genre: ["Biography", "Sports", "Nonfiction", "Autobiography", "Memoir"]
     },
     {
         isbn: 9781451636017,
