@@ -1333,6 +1333,17 @@ const booksData = [
         genre: ["Science Fiction", "Fiction", "Dystopia", "Technology", "Artificial Intelligence", "Short Stories", "Philosophy"]
     },
     {
+        isbn: 9780394549262,
+        title: "Manufacturing Consent",
+        overview: "In this pathbreaking work, Edward S. Herman and Noam Chomsky show that, contrary to the usual image of the news media as cantankerous, obstinate, and ubiquitous in their search for truth and defense of justice, in their actual practice they defend the economic, social, and political agendas of the privileged groups that dominate domestic society, the state, and the global order. Based on a series of case studies—including the media’s dichotomous treatment of “worthy” versus “unworthy” victims, “legitimizing” and “meaningless” Third World elections, and devastating critiques of media coverage of the U.S. wars against Indochina—Herman and Chomsky draw on decades of criticism and research to propose a Propaganda Model to explain the media’s behavior and performance. What emerges from this work is a powerful assessment of how propagandistic the U.S. mass media are, how they systematically fail to live up to their self-image as providers of the kind of information that people need to make sense of the world, and how we can understand their function in a radically new way.",
+        pages: "412",
+        author: "Edward S. Herman, Noam Chomsky",
+        release_date: "January 1, 1988",
+        wikipedia: "Manufacturing_Consent",
+        poster: "img/manufacturing_consent.jpg",
+        genre: ["Politics", "Nonfiction", "History", "Philosophy", "Sociology", "Economics", "Journalism"]
+    },
+    {
         isbn: 9780679746324,
         title: "Mao: The Unknown Story",
         overview: "The most authoritative life of the Chinese leader ever written, Mao: The Unknown Story is based on a decade of research, and on interviews with many of Mao's close circle in China who have never talked before -- and with virtually everyone outside China who had significant dealings with him. It is full of startling revelations, exploding the myth of the Long March, and showing a completely unknown Mao: he was not driven by idealism or ideology; his intimate and intricate relationship with Stalin went back to the 1920s, ultimately bringing him to power; he welcomed Japanese occupation of much of China; and he schemed, poisoned, and blackmailed to get his way. After Mao conquered China in 1949, his secret goal was to dominate the world. In chasing this dream he caused the deaths of 38 million people in the greatest famine in history. In all, well over 70 million Chinese perished under Mao's rule -- in peacetime.",
