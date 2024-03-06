@@ -1,4 +1,4 @@
-const allGenre = ["19th Century", "Adult", "Adventure", "African American", "American", "American History", "Anthologies", "Anthropology", "Architecture", "Art", "Artificial Intelligence", "Asia", "Astrology", "Astronomy", "Autobiography", "Basketball", "BDSM", "Biography", "Biology", "Buddhism", "Bungee Jumping", "Business", "Brain", "China", "Christianity", "Cities", "Classics", "Climate Change", "Cookbooks", "Comedy", "Comics", "Communication", "Computers", "Computer Science", "Contemporary", "Counselling", "Crime", "Cultural", "Design", "Diets", "Dystopia", "Economics", "Education", "Entrepreneurship", "Environment", "Erotica", "Espionage", "Essays", "European History", "Fantasy", "Feminism", "Film", "Finance", "Fitness", "Food", "French Literature", "Games", "Gambling", "Germany", "Graphic Novels", "Health", "Hip Hop", "Historical Fiction", "History", "Horror", "How To", "Humor", "International Relations", "Iran", "Israel", "Jazz", "Journalism", "Judaism", "Law", "Leadership", "Literature", "Logic", "Management", "Mathematics", "Medicine", "Memoir", "Mental Health", "Military Fiction", "Mythology", "Mystery", "Nature", "Neuroscience", "Nonfiction", "Novels", "Paranormal", "Parenting", "Personal Development", "Philosophy", "Photography", "Physics", "Poetry", "Political Science", "Politics", "Polyamory", "Popular Science", "Poverty", "Presidents", "Productivity", "Programming", "Psychology", "Race", "Reference", "Relationships", "Religion", "Romance", "Russia", "Russian Literature", "Science", "Science Fiction", "Self Help", "Sexuality", "Short Stories", "Social Justice", "Sociology", "Spanish Literature", "Spirituality", "Sports", "Survival", "Taoism", "Technology", "Theatre", "Theology", "Thriller", "Travel", "True Crime", "Urban Planning", "War", "World History", "World War II", "Writing", "Young Adult"];
+const allGenre = ["19th Century", "Adult", "Adventure", "African American", "American", "American History", "Anthologies", "Anthropology", "Architecture", "Art", "Artificial Intelligence", "Asia", "Astrology", "Astronomy", "Autobiography", "Basketball", "BDSM", "Biography", "Biology", "Buddhism", "Bungee Jumping", "Business", "Brain", "China", "Christianity", "Cities", "Classics", "Climate Change", "Cookbooks", "Comedy", "Comics", "Communication", "Computers", "Computer Science", "Contemporary", "Counselling", "Crime", "Cultural", "Design", "Diets", "Dystopia", "Economics", "Education", "Entrepreneurship", "Environment", "Erotica", "Espionage", "Essays", "European History", "Fantasy", "Feminism", "Film", "Finance", "Fitness", "Food", "French Literature", "Games", "Gambling", "Germany", "Graphic Novels", "Health", "Hip Hop", "Historical Fiction", "History", "Horror", "How To", "Humor", "International Relations", "Iran", "Israel", "Jazz", "Journalism", "Judaism", "Law", "Leadership", "Literature", "Logic", "Management", "Mathematics", "Medicine", "Memoir", "Mental Health", "Military Fiction", "Money", "Mythology", "Mystery", "Nature", "Neuroscience", "Nonfiction", "Novels", "Paranormal", "Parenting", "Personal Development", "Personal Finance", "Philosophy", "Photography", "Physics", "Poetry", "Political Science", "Politics", "Polyamory", "Popular Science", "Poverty", "Presidents", "Productivity", "Programming", "Psychology", "Race", "Reference", "Relationships", "Religion", "Romance", "Russia", "Russian Literature", "Science", "Science Fiction", "Self Help", "Sexuality", "Short Stories", "Social Justice", "Sociology", "Spanish Literature", "Spirituality", "Sports", "Survival", "Taoism", "Technology", "Theatre", "Theology", "Thriller", "Travel", "True Crime", "Urban Planning", "War", "World History", "World War II", "Writing", "Young Adult"];
 
 const booksData = [
     {
@@ -847,6 +847,17 @@ const booksData = [
         wikipedia: "John_Gotti",
         poster: "img/gotti_rise_and_fall.jpg",
         genre: ["True Crime", "Crime", "Biography", "Nonfiction", "History"]
+    },
+    {
+        isbn: 9780593139134,
+        title: "Greenlights",
+        overview: "From the Academy Award®–winning actor, an unconventional memoir filled with raucous stories, outlaw wisdom, and lessons learned the hard way about living with greater satisfaction. <p> I’ve been in this life for fifty years, been trying to work out its riddle for forty-two, and been keeping diaries of clues to that riddle for the last thirty-five. Notes about successes and failures, joys and sorrows, things that made me marvel, and things that made me laugh out loud. How to be fair. How to have less stress. How to have fun. How to hurt people less. How to get hurt less. How to be a good man. How to have meaning in life. How to be more me. <p> Recently, I worked up the courage to sit down with those diaries. I found stories I experienced, lessons I learned and forgot, poems, prayers, prescriptions, beliefs about what matters, some great photographs, and a whole bunch of bumper stickers. I found a reliable theme, an approach to living that gave me more satisfaction, at the time, and still: If you know how, and when, to deal with life’s challenges - how to get relative with the inevitable - you can enjoy a state of success I call “catching greenlights.” <p> So I took a one-way ticket to the desert and wrote this book: an album, a record, a story of my life so far. This is fifty years of my sights and seens, felts and figured-outs, cools and shamefuls. Graces, truths, and beauties of brutality. Getting away withs, getting caughts, and getting wets while trying to dance between the raindrops. <p> Hopefully, it’s medicine that tastes good, a couple of aspirin instead of the infirmary, a spaceship to Mars without needing your pilot’s license, going to church without having to be born again, and laughing through the tears. <p> It’s a love letter. To life. <p> It’s also a guide to catching more greenlights - and to realizing that the yellows and reds eventually turn green too. <p> Good luck.",
+        pages: "289",
+        author: "Matthew McConaughey",
+        release_date: "October 20, 2020",
+        wikipedia: "Greenlights_(book)",
+        poster: "img/greenlights.jpg",
+        genre: ["Nonfiction", "Memoir", "Biography", "Autobiography", "Self Help"]
     },
     {
         isbn: 9780739467350,
@@ -2420,6 +2431,17 @@ const booksData = [
         wikipedia: "The_Prophet_(book)",
         poster: "img/the_prophet.jpg",
         genre: ["Poetry", "Classics", "Philosophy", "Fiction", "Spirituality", "Religion", "Literature"]
+    },
+    {
+        isbn: 9780857197689,
+        title: "The Psychology of Money: Timeless lessons on wealth, greed, and happiness",
+        overview: "Doing well with money isn't necessarily about what you know. It's about how you behave. And behavior is hard to teach, even to really smart people. Money--investing, personal finance, and business decisions--is typically taught as a math-based field, where data and formulas tell us exactly what to do. But in the real world people don't make financial decisions on a spreadsheet. They make them at the dinner table, or in a meeting room, where personal history, your own unique view of the world, ego, pride, marketing, and odd incentives are scrambled together. In The Psychology of Money, award-winning author Morgan Housel shares 19 short stories exploring the strange ways people think about money and teaches you how to make better sense of one of life's most important topics.",
+        pages: "256",
+        author: "Morgan Housel",
+        release_date: "January 1, 2020",
+        wikipedia: "",
+        poster: "img/the_psychology_of_money.jpg",
+        genre: ["Finance", "Nonfiction", "Psychology", "Business", "Self Help", "Money", "Personal Finance"]
     },
     {
         isbn: 9781510766808,
