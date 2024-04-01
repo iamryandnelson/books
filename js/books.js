@@ -695,6 +695,17 @@ const booksData = [
         genre: ["Business", "Leadership", "Nonfiction", "Entrepreneurship", "Self Help", "Finance", "Personal Development"]
     },
     {
+        isbn: 9781250067050,
+        title: "Extreme Ownership: How U.S. Navy SEALs Lead and Win",
+        overview: "The #1 New York Times bestseller Sent to the most violent battlefield in Iraq, Jocko Willink and Leif Babin’s SEAL task unit faced a seemingly impossible help U.S. forces secure Ramadi, a city deemed “all but lost.” In gripping firsthand accounts of heroism, tragic loss, and hard-won victories in SEAL Team Three’s Task Unit Bruiser, they learned that leadership―at every level―is the most important factor in whether a team succeeds or fails.Willink and Babin returned home from deployment and instituted SEAL leadership training that helped forge the next generation of SEAL leaders. After departing the SEAL Teams, they launched Echelon Front, a company that teaches these same leadership principles to businesses and organizations. From promising startups to Fortune 500 companies, Babin and Willink have helped scores of clients across a broad range of industries build their own high-performance teams and dominate their battlefields. Now, detailing the mind-set and principles that enable SEAL units to accomplish the most difficult missions in combat, Extreme Ownership shows how to apply them to any team, family or organization. Each chapter focuses on a specific topic such as Cover and Move, Decentralized Command, and Leading Up the Chain, explaining what they are, why they are important, and how to implement them in any leadership environment. A compelling narrative with powerful instruction and direct application, Extreme Ownership revolutionizes business management and challenges leaders everywhere to fulfill their ultimate lead and win.",
+        pages: "320",
+        author: "Jocko Willink, Leif Babin",
+        release_date: "October 20, 2015",
+        wikipedia: "Jocko_Willink",
+        poster: "img/extreme_ownership.jpg",
+        genre: ["Leadership", "Business", "Nonfiction", "Self Help", "Personal Development", "Management", "Military Fiction"]
+    },
+    {
         isbn: 9780345342966,
         title: "Fahrenheit 451",
         overview: "The system was simple. Everyone understood it. Books were for burning, along with the houses in which they were hidden. <p> Guy Montag was a fireman whose job it was to start fires. And he enjoyed his job. He had been a fireman for ten years, and he had never questioned the pleasure of the midnight runs or the joy of watching pages consumed by flames, never questioned anything until he met a seventeen-year-old girl who told him of a past when people were not afraid. Then Guy met a professor who told him of a future in which people could think. And Guy Montag suddenly realized what he had to do...",
