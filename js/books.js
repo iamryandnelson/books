@@ -1751,6 +1751,17 @@ const booksData = [
         genre: ["Nonfiction", "Science", "History", "Sexuality", "Psychology", "Anthropology", "Relationships"]
     },
     {
+        isbn: 199621038,
+        title: "Shadow Pact",
+        overview: "Elias Graves is one of Seattle's more unusual inhabitants - an immortal ghostspeaker - a modern day necromancer with a knack for finding himself in trouble of one kind or another. And when he isn't busy looking for trouble, it has its own way of finding him. Asked to consult in an unusual murder case by one of Seattle PD's best and brightest, he finds himself hobnobbing with the three most powerful groups in the supernatural underbelly of Washington State - the vampires, the knights, and the mages. Dealing with the undead has become the least of Elias's problems when one man's grief and loss puts him and others in the crosshairs of monsters, demons, and worse yet, some very old, and very powerful entities who want nothing more than to regain their foothold in the world of man.",
+        pages: "555",
+        author: "Anderson Damian Lucas",
+        release_date: "October 5, 2023",
+        wikipedia: "",
+        poster: "img/shadow_pact.jpg",
+        genre: ["Fantasy", "Fiction"]
+    },
+    {
         isbn: 9780060538255,
         title: "She Comes First: The Thinking Man's Guide to Pleasuring a Woman",
         overview: "Ian Kerner offers a radical new philosophy for pleasuring women in She Comes First—an essential guidebook to oral sex from the author of Be Honest—You’re Not That Into Him Either. The New York Times praises Kerner’s “cool sense of humor and an obsessive desire to inform,” as he “encourages men through an act that many find mystifying.” An indispensable aid to a healthier, more fulfilling sex life for her and him, She Comes First offers techniques and philosophy that have already earned raves from the likes of bestselling author and Loveline co-host Dr. Drew Pinsky as well as Playgirl magazine, which cheers, “Hallelujah!”.",
