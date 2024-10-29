@@ -2301,6 +2301,17 @@ const booksData = [
         genre: ["China", "Politics", "History", "Nonfiction", "Asia", "Economics", "Business"]
     },
     {
+        isbn: 25893855,
+        title: "The Killing of Osama bin Laden",
+        overview: "Electrifying investigation of White House lies about the assassination of Osama bin Laden <p> In 2011, an elite group of US Navy SEALS stormed an enclosure in the Pakistani city of Abbottabad and killed Osama bin Laden, the man the United States had begun chasing before the devastating attacks of 9/11. The news did much to boost President Obama’s first term and played a major part in his reelection victory of the following year. But much of the story of that night, as presented to the world, was incomplete, or a lie. The evidence of what actually went on remains hidden. <p> At the same time, the full story of the United States’ involvement in the Syrian civil war has been kept behind a diplomatic curtain, concealed by doublespeak. It is a policy of obfuscation that has compelled the White House to turn a blind eye to Turkey’s involvement in supporting ISIS and its predecessors in Syria. <p> This investigation, which began as a series of essays in the London Review of Books, has ignited a firestorm of controversy in the world media. In his introduction, Hersh asks what will be the legacy of Obama’s time in office. Was it an era of “change we can believe in” or a season of lies and compromises that continued George W. Bush’s misconceived War on Terror? How did he lose the confidence of the general in charge of America’s forces who acted in direct contradiction to the White House? What else do we not know?",
+        pages: "144",
+        author: "Seymour M. Hersh",
+        release_date: "February 2, 2016",
+        wikipedia: "Killing_of_Osama_bin_Laden",
+        poster: "img/the_killing_of_Osama_bin_Laden.jpg",
+        genre: ["Nonfiction", "History", "Politics", "War", "Journalism"]
+    },
+    {
         isbn: 9780859652735,
         title: "The Killing of Tupac Shakur",
         overview: "Poet, movie star, revolutionary -- Tupac Amaru Shakur was the most popular rapper in the world.No one symbolized the violence at the heart of gangsta rap more than Tupac, and he ultimately fell victim to that violence, gunned down in a drive-by shooting in Las Vegas at age 25. <p> Who did it and why? This raw no-holds-barred account discloses new information, including exclusive photo evidence, about the unsolved murder of Tupac: the failed investigation, the rap wars, the killing of Biggie Smalls, the Bloods-Crips connection, and the many possible motives leading to the murder that rocked the music world.",
