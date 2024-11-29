@@ -1531,9 +1531,20 @@ const booksData = [
         genre: ["Nonfiction", "History", "Politics", "Asia", "Biography", "Journalism"]
     },
     {
+        isbn: 9780593476093,
+        title: "Nuclear War: A Scenario",
+        overview: "There is only one scenario other than an asteroid strike that could end the world as we know it in a matter of hours: nuclear war. And one of the triggers for that war would be a nuclear missile inbound toward the United States. <p> Every generation, a journalist has looked deep into the heart of the nuclear military establishment: the technologies, the safeguards, the plans, and the risks. These investigations are vital to how we understand the world we really live in—where one nuclear missile will beget one in return, and where the choreography of the world’s end requires massive decisions made on seconds’ notice with information that is only as good as the intelligence we have. <p> Pulitzer Prize finalist Annie Jacobsen’s Nuclear War: A Scenario explores this ticking-clock scenario, based on dozens of exclusive new interviews with military and civilian experts who have built the weapons, have been privy to the response plans, and have been responsible for those decisions should they have needed to be made. Nuclear War: A Scenario examines the handful of minutes after a nuclear missile launch. It is essential reading, and unlike any other book in its depth and urgency.",
+        pages: "400",
+        author: "Annie Jacobsen",
+        release_date: "March 28, 2024",
+        wikipedia: "Nuclear_War:_A_Scenario",
+        poster: "img/nuclear_war.jpg",
+        genre: ["Nonfiction", "History", "Politics", "Science", "War", "Horror"]
+    },
+    {
         isbn: 9780316040938,
         title: "On Killing: The Psychological Cost of Learning to Kill in War and Society",
-        overview: "In World War II, only 15 to 20 percent of combat infantry were willing to fire their rifles. In Korea, about 50 percent. In Vietnam, the figure rose to more than 90 percent. <p> The good news is that most soldiers are loath to kill. But armies have developed sophisticated ways sophisticated ways of overcoming that instinctive aversion. The psychological cost for soldiers, as evidenced by the increase in post-traumatic stress, is devastating. This landmark study brilliantly illuminates the techniques the military uses to help soldiers kill and raises vital questions about the implications of escalating violence in our society. ",
+        overview: "In World War II, only 15 to 20 percent of combat infantry were willing to fire their rifles. In Korea, about 50 percent. In Vietnam, the figure rose to more than 90 percent. <p> The good news is that most soldiers are loath to kill. But armies have developed sophisticated ways sophisticated ways of overcoming that instinctive aversion. The psychological cost for soldiers, as evidenced by the increase in post-traumatic stress, is devastating. This landmark study brilliantly illuminates the techniques the military uses to help soldiers kill and raises vital questions about the implications of escalating violence in our society.",
         pages: "416",
         author: "Dave Grossman",
         release_date: "January 1, 1995",
