@@ -1256,6 +1256,17 @@ const booksData = [
         genre: ["Biography", "Nonfiction", "History", "Art", "Science"]
     },
     {
+        isbn: 9780062517395,
+        title: "Life After Life: The Investigation of a Phenomenon - Survival of Bodily Death",
+        overview: "Raymond Moody is the “father” of the modern NDE (Near Death Experience) movement, and his pioneering work Life After Life transformed the world, revolutionizing the way we think about death and what lies beyond. Originally published in 1975, it is the groundbreaking study of one hundred people who experienced “clinical death” and were revived, and who tell, in their own words, what lies beyond death. <p> Life After Life introduced us to concepts—including the bright light, the tunnel, the presence of loved ones waiting on the other side—that have become cultural memes and have shaped countless readers notions about the end life and the meaning of death.",
+        pages: "175",
+        author: "Raymond A. Moody Jr.",
+        release_date: "November 1, 1975",
+        wikipedia: "Life_After_Life_(Moody_book)",
+        poster: "img/life_after_life.jpg",
+        genre: ["Nonfiction", "Spirituality", "Psychology", "Science", "Religion", "Self Help"]
+    },
+    {
         isbn: 9780156027328,
         title: "Life of Pi",
         overview: "The son of a zookeeper, Pi Patel has an encyclopedic knowledge of animal behavior and a fervent love of stories. When Pi is sixteen, his family emigrates from India to North America aboard a Japanese cargo ship, along with their zoo animals bound for new homes. <p> The ship sinks. Pi finds himself alone in a lifeboat, his only companions a hyena, an orangutan, a wounded zebra, and Richard Parker, a 450-pound Bengal tiger. Soon the tiger has dispatched all but Pi, whose fear, knowledge, and cunning allow him to coexist with Richard Parker for 227 days while lost at sea.",
