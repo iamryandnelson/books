@@ -2224,6 +2224,17 @@ const booksData = [
         genre: ["Nonfiction", "Sexuality", "Relationships", "Polyamory", "Self Help"]
     },
     {
+        isbn: 9780446584388,
+        title: "The Executioner's Song",
+        overview: "Norman Mailer's Pulitzer Prize-winning and unforgettable classic about convicted killer Gary Gilmore now in a brand-new edition. <p> Arguably the greatest book from America's most heroically ambitious writer, THE EXECUTIONER'S SONG follows the short, blighted life of Gary Gilmore who became famous after he robbed two men in 1976 and killed them in cold blood. After being tried and convicted, he immediately insisted on being executed for his crime. To do so, he fought a system that seemed intent on keeping him alive long after it had sentenced him to death. And that fight for the right to die is what made him famous. <p> Mailer tells not only Gilmore's story, but those of the men and women caught in the web of his life and drawn into his procession toward the firing squad. All with implacable authority, steely compassion, and a restraint that evokes the parched landscape and stern theology of Gilmore's Utah. THE EXECUTIONER'S SONG is a trip down the wrong side of the tracks to the deepest source of American loneliness and violence. It is a towering achievement-impossible to put down, impossible to forget.",
+        pages: "1,109",
+        author: "Norman Mailer",
+        release_date: "October 30, 1979",
+        wikipedia: "The_Executioner's_Song",
+        poster: "img/the_executioners_song.jpg",
+        genre: ["True Crime", "Nonfiction", "Crime", "Biography", "Classics", "History", "Literature"]
+    },
+    {
         isbn: 9780451524935,
         title: "The Forty Rules of Love",
         overview: "Ella Rubenstein is forty years old and unhappily married when she takes a job as a reader for a literary agent. Her first assignment is to read and report on Sweet Blasphemy, a novel written by a man named Aziz Zahara. Ella is mesmerized by his tale of Shams's search for Rumi and the dervish's role in transforming the successful but unhappy cleric into a committed mystic, passionate poet, and advocate of love. She is also taken with Shams's lessons, or rules, that offer insight into an ancient philosophy based on the unity of all people and religions, and the presence of love in each and every one of us. As she reads on, she realizes that Rumi's story mir­rors her own and that Zahara—like Shams—has come to set her free. <p> In this lyrical, exuberant follow-up to her 2007 novel, The Bastard of Istanbul, acclaimed Turkish author Elif Shafak unfolds two tantalizing parallel narratives—one contemporary and the other set in the thirteenth century, when Rumi encountered his spiritual mentor, the whirling dervish known as Shams of Tabriz—that together incarnate the poet's timeless message of love.",
