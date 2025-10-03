@@ -1025,6 +1025,17 @@ const booksData = [
         genre: ["Business", "Nonfiction", "Self Help", "Psychology", "Personal Development", "Leadership", "Communication"]
     },
     {
+        isbn: 9781730978722,
+        title: "How To Eat A Banana: The Art Of Oral Pleasure: How To Give Head Like A Porn Star",
+        overview: "Men from all walks of life will agree, women are \"ill-informed\" when it comes to oral pleasure. Most women know more about decorating, shopping and makeup than the male anatomy. How to Eat a Banana provides step-by-step instruction on the mastery of male satisfaction that will have your man/husband begging for more! There is an art to oral love, which most women have yet to master. However, once mastered and performed by someone skilled and confident in their abilities, it is a concrete example of the pleasure of giving. No matter what your current level of experience is, this guide will leave you feeling confident and eager to use your newly acquired skills! You will join the ranks of the sexually uninhibited and transform your love life and relationship. This guide is for the woman who is ready to unleash her inner \"Love Goddess!\" If you're eager to learn tips, tricks, techniques and the secrets to what makes men tick look no further. How to Eat a Banana will give you the perfect head start!",
+        pages: "73",
+        author: "C.J. Ryder",
+        release_date: "November 7, 2018",
+        wikipedia: "",
+        poster: "img/how_to_eat_a_banana.jpg",
+        genre: ["Nonfiction", "Sexuality", "Erotica"]
+    },
+    {
         isbn: 9780060539092,
         title: "How to Make Love Like a Porn Star: A Cautionary Tale",
         overview: "Jenna Jameson's unforgettable memoir is many things at once: a shocking sexual history; an insider's guide to the secret workings of the billion-dollar adult-film industry; and a gripping thriller that probes deep into Jameson's dark past. With never-before-seen photographs from Jenna's private collection, exclusive photos taken for this book, and original cartoon strips, this memoir is an unparalleled exploration of sexual freedom.",
