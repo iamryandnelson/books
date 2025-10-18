@@ -244,6 +244,17 @@ const booksData = [
         genre: ["Nonfiction", "Science", "Politics", "Environment", "Climate Change", "Economics", "Nature"]
     },
     {
+        isbn: 9781951627348,
+        title: "Apropos of Nothing",
+        overview: "In this candid and often hilarious memoir, the celebrated director, comedian, writer, and actor offers a comprehensive, personal look at his tumultuous life. Beginning with his Brooklyn childhood and his stint as a writer for the Sid Caesar variety show in the early days of television, working alongside comedy greats, Allen tells of his difficult early days doing standup before he achieved recognition and success. With his unique storytelling pizzazz, he recounts his departure into moviemaking, with such slapstick comedies as Take the Money and Run, and revisits his entire, sixty-year-long, and enormously productive career as a writer and director, from his classics Annie Hall, Manhattan, and Hannah and Her Sisters to his most recent films, including Midnight in Paris. Along the way, he discusses his marriages, his romances and famous friendships, his jazz playing, and his books and plays. We learn about his demons, his mistakes, his successes, and those he loved, worked with, and learned from in equal measure. <p> This is a hugely entertaining, deeply honest, rich and brilliant self-portrait of a celebrated artist who is ranked among the greatest filmmakers of our time.",
+        pages: "392",
+        author: "Woody Allen",
+        release_date: "March 23, 2020",
+        wikipedia: "Apropos_of_Nothing",
+        poster: "img/apropos_of_nothing.jpg",
+        genre: ["Nonfiction", "Biography", "Memoir", "Autobiography", "Film", "Humor"]
+    },
+    {
         isbn: 9780316132947,
         title: "Area 51: An Uncensored History of America's Top Secret Military Base",
         overview: "It is the most famous military installation in the world. And it doesn’t exist. Located a mere seventy-five miles outside of Las Vegas in Nevada’s desert, the base has never been acknowledged by the U.S. government-but Area 51 has captivated imaginations for decades. <p> Myths and hypotheses about Area 51 have long abounded, thanks to the intense secrecy enveloping it. Some claim it is home to aliens, underground tunnel systems, and nuclear facilities. Others believe that the lunar landing itself was filmed there. The prevalence of these rumors stems from the fact that no credible insider has ever divulged the truth about his time inside the base. Until now. <p> Annie Jacobsen had exclusive access to nineteen men who served the base proudly and secretly for decades and are now aged 75-92, and unprecedented access to fifty-five additional military and intelligence personnel, scientists, pilots, and engineers linked to the secret base, thirty-two of whom lived and worked there for extended periods. In Area 51, Jacobsen shows us what has really gone on in the Nevada desert, from testing nuclear weapons to building super-secret, supersonic jets to pursuing the War on Terror. <p> This is the first book based on interviews with eye witnesses to Area 51 history, which makes it the seminal work on the subject. Filled with formerly classified information that has never been accurately decoded for the public, Area 51 weaves the mysterious activities of the top-secret base into a gripping narrative, showing that facts are often more fantastic than fiction, especially when the distinction is almost impossible to make.",
