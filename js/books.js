@@ -2477,6 +2477,17 @@ const booksData = [
         genre: ["Classics", "Fiction", "Literature", "Novels", "American", "Adventure"]
     },
     {
+        isbn: 9780688067670,
+        title: "The One Minute Manager Meets The Monkey",
+        overview: "One simple idea can set you free: Don't take on a problem if it isn't yours! One of the most liberating books in the extraordinary One Minute Manager Library teaches managers an unforgettable lesson: how to have time to do what they want and need to do.  The authors tell why managers who accept every problem given them by their staffs become hopeless bottlenecks. With a vivid, humorous, and too familiar scenario they show a manager loaded down by all the monkeys that have jumped from their rightful owners onto his back. Then step by step they show how managers can free themselves from doing everyone else's job and ensure that every problem is handled by the proper staff person. By using Oncken's Four Rules of Monkey Management managers will learn to become effective supervisors of time, energy, and talent -- especially their own. If you have ever wondered why you are in the office on the weekends and your staff is on the golf course, The One Minute Manager Meets the Monkey is for you. It's priceless!",
+        pages: "137",
+        author: "Kenneth H. Blanchard, William Oncken Jr., Hal Burrows",
+        release_date: "January 1, 1989",
+        wikipedia: "The_One_Minute_Manager",
+        poster: "img/the_one_minute_manager_meets_the_monkey.jpg",
+        genre: ["Business", "Leadership", "Management", "Nonfiction", "Self Help", "Personal Development", "Productivity"]
+    },
+    {
         isbn: 9780316371766,
         title: "The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency",
         overview: "The definitive history of DARPA, the Defense Advanced Research Project Agency, from the author of the New York Times bestseller Area 51 <p> No one has ever written the history of the Defense Department's most secret, most powerful, and most controversial military science R&D agency. In the first-ever history about the organization, New York Times bestselling author Annie Jacobsen draws on inside sources, exclusive interviews, private documents, and declassified memos to paint a picture of DARPA, or \"the Pentagon's brain,\" from its Cold War inception in 1958 to the present. <p> This is the book on DARPA--a compelling narrative about this clandestine intersection of science and the American military and the often frightening results.",
