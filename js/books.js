@@ -2455,6 +2455,17 @@ const booksData = [
         genre: ["Fitness", "Health", "Nonfiction", "Reference", "Sports", "Self Help", "Science"]
     },
     {
+        isbn: 9780062367549,
+        title: "The New One Minute Manager",
+        overview: "For decades, The One Minute Manager® has helped millions achieve more successful professional and personal lives. While the principles it lays out are timeless, our world has changed drastically since the book’s publication. The exponential rise of technology, global flattening of markets, instant communication, and pressures on corporate workforces to do more with less—including resources, funding, and staff—have all revolutionized the world in which we live and work. <p> Now, Ken Blanchard and Spencer Johnson have written The New One Minute Manager to introduce the book’s powerful, important lessons to a new generation. In their concise, easy-to-read story, they teach readers three very practical secrets about leading others—and explain why these techniques continue to work so well. <p> As compelling today as the original was thirty years ago, this classic parable of a young man looking for an effective manager is more relevant and useful than ever.",
+        pages: "112",
+        author: "Kenneth H. Blanchard, Spencer Johnson",
+        release_date: "May 1, 2015",
+        wikipedia: "The_One_Minute_Manager",
+        poster: "img/the_new_one_minute_manager.jpg",
+        genre: ["Nonfiction", "Self Help", "Personal Development", "Productivity", "Psychology", "Entrepreneurship"]
+    },
+    {
         isbn: 9780140268867,
         title: "The Odyssey",
         overview: "Sing to me of the man, Muse, the man of twists and turns <p> driven time and again off course, once he had plundered <p> the hallowed heights of Troy. <p> If the Iliad is the world's greatest war epic, then the Odyssey is literature's grandest evocation of everyman's journey though life. Odysseus' reliance on his wit and wiliness for survival in his encounters with divine and natural forces, during his ten-year voyage home to Ithaca after the Trojan War, is at once a timeless human story and an individual test of moral endurance. <p> In the myths and legends that are retold here, Fagles has captured the energy and poetry of Homer's original in a bold, contemporary idiom, and given us an Odyssey to read aloud, to savor, and to treasure for its sheer lyrical mastery. <p> Renowned classicist Bernard Knox's superb Introduction and textual commentary provide new insights and background information for the general reader and scholar alike, intensifying the strength of Fagles' translation. <p> This is an Odyssey to delight both the classicist and the public at large, and to captivate a new generation of Homer's students. <p> Robert Fagles, winner of the PEN/Ralph Manheim Medal for Translation and a 1996 Academy Award in Literature from the American Academy of Arts and Letters, presents us with Homer's best-loved and most accessible poem in a stunning new modern-verse translation.",
@@ -2860,6 +2871,17 @@ const booksData = [
         wikipedia: "Mike_Tyson",
         poster: "img/undisputed_truth.jpg",
         genre: ["Biography", "Sports", "Nonfiction", "Autobiography", "Memoir"]
+    },
+    {
+        isbn: 9781587612909,
+        title: "Urban Tantra: Sacred Sex for the Twenty-First Century",
+        overview: "If you think sexual and spiritual bliss can't be found in today's fast-paced world, you haven't experienced Urban Tantra. With a juicy mix of erotic how-to and pleasure-centered spiritual wisdom, acclaimed sex educator Barbara Carrellas radically updates the ancient practice of Tantra for modern sexual explorers desiring to push past their edge in search of the great cosmic orgasm. With more than one hundred easy-to-follow techniques for expanded orgasmic states and solo and partner play (as well as more adventurous practices), this in-depth guide reveals the delicious worlds of ecstasy available to all, including: The Erotic Awakening Massage, Breath and Energy Orgasms, Twenty-Minute Tantra Evolutionary Selfloving, Sex and Healing, Tantric BDSM. No matter what your gender, sexual preference, or erotic tastes, URBAN TANTRA will expand your notions about pleasure and open you up to new heights of intimacy and sexual fulfillment.",
+        pages: "304",
+        author: "Barbara Carrellas, Annie Sprinkle",
+        release_date: "April 9, 2005",
+        wikipedia: "Barbara_Carrellas",
+        poster: "img/urban_tantra.jpg",
+        genre: ["Sexuality", "Nonfiction", "Spirituality", "Relationships", "Self Help", "Health", "Romance"]
     },
     {
         isbn: 9781451636017,
