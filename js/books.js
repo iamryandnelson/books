@@ -2290,6 +2290,17 @@ const booksData = [
         genre: ["Religion", "Nonfiction", "History", "Spirituality", "Christianity", "Philosophy", "Theology"]
     },
     {
+        isbn: 9780812921113,
+        title: "The Gotti Tapes",
+        overview: "The secret, unexpurgated FBI tapes of John Gotti feature transcripts from his recent trial and describe how the mob really works at the highest levels",
+        pages: "388",
+        author: "Ralph Blumenthal",
+        release_date: "June 7, 1992",
+        wikipedia: "John_Gotti",
+        poster: "img/the_gotti_tapes.jpg",
+        genre: ["True Crime", "History", "Nonfiction"]
+    },
+    {
         isbn: 9781594205453,
         title: "The Great Degeneration",
         overview: "From renowned historian Niall Ferguson, a searching and provocative examination of the widespread institutional rot that threatens our collective future. <p> What causes rich countries to lose their way? Symptoms of decline are all around us slowing growth, crushing debts, increasing inequality, aging populations, antisocial behavior. But what exactly has gone wrong? The answer, Niall Ferguson argues in The Great Degeneration , is that our institutions—the intricate frameworks within which a society can flourish or fail—are degenerating. <p> Representative government, the free market, the rule of law, and civil society—these are the four pillars of West European and North American societies. It was these institutions, rather than any geographical or climatic advantages, that set the West on the path to global dominance beginning around 1500. In our time, however, these institutions have deteriorated in disturbing ways. Our democracies have broken the contract between the generations by heaping IOUs on our children and grandchildren. Our markets are hindered by overcomplex regulations that debilitate the political and economic processes they were created to support; the rule of law has become the rule of lawyers. And civil society has degenerated into uncivil society, where we lazily expect all of our problems to be solved by the state. <p> It is institutional degeneration, in other words, that lies behind economic stagnation and the geopolitical decline that comes with it. With characteristic verve and historical insight, Ferguson analyzes not only the causes of this stagnation but also its profound consequences. <p> The Great Degeneration is an incisive indictment of an era of negligence and complacency. While the Arab world struggles to adopt democracy and China struggles to move from economic liberalization to the rule of law, our society is squandering the institutional inheritance of centuries. To arrest the breakdown of our civilization, Ferguson warns, will take heroic leadership and radical reform.",
