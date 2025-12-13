@@ -2268,6 +2268,17 @@ const booksData = [
         genre: ["True Crime", "Nonfiction", "Crime", "Biography", "Classics", "History", "Literature"]
     },
     {
+        isbn: 9780593655085,
+        title: "The Fort Bragg Cartel: Drug Trafficking and Murder in the Special Forces",
+        overview: "Two dead bodies were discovered in a forested area of Fort Bragg, North Carolina, in 2020. One, William “Billy” Lavigne, was a member of Delta Force, the most secretive “black ops” unit in the military. A long-serving veteran of America’s classified assassination program, Lavigne had done more than a dozen deployments, was addicted to crack cocaine, dealt drugs on base, and had committed a series of violent crimes before he was mysteriously killed. The other, Timothy Dumas, was a supply officer attached to the Special Forces who used his proximity to clandestine missions to steal guns and traffic drugs into the United States from abroad, and had written a blackmail letter threatening to expose criminality in the special operations task force in Afghanistan. <p> As soon as Seth Harp, an Iraq war veteran and investigative reporter, begins looking into the double murder, he learns that there have been many more unexplained deaths at Fort Bragg recently, all with some apparent connection to drug-trafficking, as well as dozens of fatal overdoses. Drawing on trial transcripts, police records, and hundreds of interviews, Harp tells a scathing story of narco-trafficking in the Special Forces, drug conspiracies abetted by corrupt police, blatant military cover-ups, American complicity in the Afghan heroin trade, and the pernicious consequences of continuous war.",
+        pages: "357",
+        author: "Seth Harp",
+        release_date: "August 12, 2025",
+        wikipedia: "The_Fort_Bragg_Cartel",
+        poster: "img/the_fort_bragg_cartel.jpg",
+        genre: ["Nonfiction", "History", "True Crime", "Crime", "Politics"]
+    },
+    {
         isbn: 9780451524935,
         title: "The Forty Rules of Love",
         overview: "Ella Rubenstein is forty years old and unhappily married when she takes a job as a reader for a literary agent. Her first assignment is to read and report on Sweet Blasphemy, a novel written by a man named Aziz Zahara. Ella is mesmerized by his tale of Shams's search for Rumi and the dervish's role in transforming the successful but unhappy cleric into a committed mystic, passionate poet, and advocate of love. She is also taken with Shams's lessons, or rules, that offer insight into an ancient philosophy based on the unity of all people and religions, and the presence of love in each and every one of us. As she reads on, she realizes that Rumi's story mir­rors her own and that Zahara—like Shams—has come to set her free. <p> In this lyrical, exuberant follow-up to her 2007 novel, The Bastard of Istanbul, acclaimed Turkish author Elif Shafak unfolds two tantalizing parallel narratives—one contemporary and the other set in the thirteenth century, when Rumi encountered his spiritual mentor, the whirling dervish known as Shams of Tabriz—that together incarnate the poet's timeless message of love.",
@@ -2574,6 +2585,17 @@ const booksData = [
         wikipedia: "The_Power_Broker",
         poster: "img/the_power_broker.jpg",
         genre: ["History", "Biography", "Nonfiction", "Politics", "Business", "American History"]
+    },
+    {
+        isbn: 9781416591177,
+        title: "The Power of Positive Thinking",
+        overview: "For half a century, Norman Vincent Peale was one of the most influential clergymen in the United States. Brilliantly combining the wisdom of Christianity with a deep understanding of human psychology, Peale delivered a message about the power of faith that resonated with people of all denominations. The most famous of his forty-six books, The Power of Positive Thinking, has remained in print for fifty years, sold fifteen million copies, and been translated into forty languages. Peale's legacy continues today through the work of the Peale Center for Christian Living, the Outreach Division of Guideposts, which is still run by members of his family, and the magazine Guideposts, which has a circulation of more than 3.2 million.",
+        pages: "218",
+        author: "Norman Vincent Peale",
+        release_date: "October 1, 1952",
+        wikipedia: "The_Power_of_Positive_Thinking",
+        poster: "img/the_power_of_positive_thinking.jpg",
+        genre: ["Self Help", "Nonfiction", "Psychology", "Personal Development", "Business", "Philosophy", "Spirituality"]
     },
     {
         isbn: 9780451524935,
