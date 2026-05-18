@@ -574,6 +574,17 @@ const booksData = [
         genre: ["Nonfiction", "Psychology", "Memoir", "Mental Health", "Biography"]
     },
     {
+        isbn: 19797652,
+        title: "Daughter of the King: Growing Up in Gangland",
+        overview: "In this tell-all memoir, the only daughter of the man who was considered the \"brains of the Mob\" opens the door on her glamorous—and tragic—life. Sandi Lansky Lombardo, daughter of Mob boss Meyer Lansky, was raised in New York City in upper-class Jewish splendor and spent her childhood in the undeniable glitz of Havana and Las Vegas in Lansky's heyday in the 1940s, '50s, and '60s. She dined out with her father and his associates when she was six and was introduced to Frank Sinatra when she was eleven. She knew Bugsy Siegel and Uncle Lucky Luciano and met Howard Hughes and Joseph Kennedy. She was the Paris Hilton of her day: partying until dawn at El Morocco and the Stork Club, married at sixteen, romanced by Dean Martin at nineteen. She was pampered and protected, but her life was also full of tragedy: her mother was mentally ill and her eldest brother severely handicapped, and Mob violence repeatedly invaded the world of their friends and family. <P> In Daughter of the King, Sandi recounts for the first time the grandeur—and heartbreak—in her life as the daughter of one of the most powerful mobsters in America. Sandi takes listeners back in time to tell the story of her life—one lived in a glamorous but troubled world where nothing ever turned out to be quite as it seemed.",
+        pages: "272",
+        author: "Sandra Lansky, William Stadiem",
+        release_date: "March 4, 2014",
+        wikipedia: "Meyer_Lansky",
+        poster: "img/daughter_of_the_king.jpg",
+        genre: ["Nonfiction", "Biography", "Memoir", "Crime"]
+    },
+    {
         isbn: 9780316204361,
         title: "David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",
         overview: "In his #1 bestselling books The Tipping Point, Blink, and Outliers, Malcolm Gladwell has explored the ways we understand and change our world. Now he looks at the complex and surprising ways the weak can defeat the strong, the small can match up against the giant, and how our goals (often culturally determined) can make a huge difference in our ultimate sense of success. Drawing upon examples from the world of business, sports, culture, cutting-edge psychology, and an array of unforgettable characters around the world, David and Goliath is in many ways the most practical and provocative book Malcolm Gladwell has ever written.",
