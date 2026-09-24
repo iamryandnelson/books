@@ -310,6 +310,17 @@ const booksData = [
         genre: ["Buddhism", "Spirituality", "Nonfiction", "Philosophy", "Religion", "Self Help"]
     },
     {
+        isbn: 9798217046034,
+        title: "Biological War: A Scenario",
+        overview: "A lab accident, a bio-attack, a global pandemic, and the collapse of human society. In this essential new book, based on dozens of new interviews with experts with high-level political, governmental, medical, and military responsibility, Annie Jacobsen examines this very scenario. It would be only a matter of days from such a global infection before the infrastructure built to handle this gravest of situations would be in a battle for human existence. <p> The mass death, total societal breakdown, widespread insurrection, anarchy, and a plague-ravaged wasteland that no longer resembles modern civilization. In other dystopia. <p> Following the gripping narrative style that launched Nuclear War to the New York Times bestseller list, Jacobsen looks deeply at a situation that is in some ways the opposite of a nuclear There is no mushroom cloud, no shock wave or blast. Instead, the scenario that could end the world as we know it begins with something so small, and something so malicious, that when used for evil, only evil can result. <p> This is what could happen; a ticking-clock roadmap to the hours, days, and weeks following the release of a biological agent, that serves as the most essential, forward-looking journalism in preparation for urgent societal upheaval.",
+        pages: "406",
+        author: "Annie Jacobsen",
+        release_date: "July 28, 2026",
+        wikipedia: "Biological_War:_A_Scenario",
+        poster: "img/biological_war.jpg",
+        genre: ["Nonfiction", "Science", "Politics", "History", "War", "Horror"]
+    },
+    {
         isbn: 9780316010665,
         title: "Blink: The Power of Thinking Without Thinking",
         overview: "Drawing on cutting-edge neuroscience and psychology and displaying all of the brilliance that made The Tipping Point a classic, Blink changes the way you'll understand every decision you make. Never again will you think about thinking the same way. <p> Malcolm Gladwell redefined how we understand the world around us. Now, in Blink, he revolutionizes the way we understand the world within. Blink is a book about how we think without thinking, about choices that seem to be made in an instant - in the blink of an eye - that actually aren't as simple as they seem. Why are some people brilliant decision makers, while others are consistently inept? Why do some people follow their instincts and win, while others end up stumbling into error? How do our brains really work - in the office, in the classroom, in the kitchen, and in the bedroom? And why are the best decisions often those that are impossible to explain to others? <p> In Blink we meet the psychologist who has learned to predict whether a marriage will last, based on a few minutes of observing a couple; the tennis coach who knows when a player will double-fault before the racket even makes contact with the ball; the antiquities experts who recognize a fake at a glance. Here, too, are great failures of \"blink\": the election of Warren Harding; \"New Coke\"; and the shooting of Amadou Diallo by police. Blink reveals that great decision makers aren't those who process the most information or spend the most time deliberating, but those who have perfected the art of \"thin-slicing\" - filtering the very few factors that matter from an overwhelming number of variables.",
@@ -2684,6 +2695,17 @@ const booksData = [
         wikipedia: "The_Rose_That_Grew_from_Concrete_(poetry_collection)",
         poster: "img/the_rose_that_grew_from_concrete.jpg",
         genre: ["Poetry", "Nonfiction", "Music", "African American", "Biography", "Memoir", "Race"]
+    },
+    {
+        isbn: 9780340128756,
+        title: "The Sacred Mushroom and the Cross",
+        overview: "A study of the nature and origins of Christianity within the fertility cults of the ancient Near East. Where did God come from? What do the bible stories really tell us? Who or what was Jesus Christ? This book challenges everything we think we know about the nature of religion. • The ancient fertility cult at the heart of Christianity • The living power of cultic rites and symbols • The sacred mushroom as the emblem and embodiment of divinity • The secret meaning of biblical myths • The language of religion that links us to our ancestors The Sacred Mushroom and the Cross sets out John Allegro's quest through a family tree of languages to find the truth about where Christianity came from.",
+        pages: "416",
+        author: "John Marco Allegro",
+        release_date: "May 18, 1970",
+        wikipedia: "The_Sacred_Mushroom_and_the_Cross",
+        poster: "img/the_sacred_mushroom_and_the_cross.jpg",
+        genre: ["Religion", "History", "Nonfiction", "Philosophy", "Spirituality", "Christianity", "Science"]
     },
     {
         isbn: 9780985724900,
