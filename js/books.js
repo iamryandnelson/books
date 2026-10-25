@@ -2571,7 +2571,7 @@ const booksData = [
         pages: "247",
         author: "Walter Van Tilburg Clark",
         release_date: "February 1, 1943",
-        wikipedia: "The_Ox-Bow_Incident",
+        wikipedia: "The_Ox-Bow_Incident_(novel)",
         poster: "img/the_ox-bow_incident.jpg",
         genre: ["Westerns", "Fiction", "Classics", "Historical Fiction", "Literature", "Novels", "American"]
     },
