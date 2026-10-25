@@ -2565,6 +2565,17 @@ const booksData = [
         genre: ["Business", "Leadership", "Management", "Nonfiction", "Self Help", "Personal Development", "Productivity"]
     },
     {
+        isbn: 9780451525253,
+        title: "The Ox-Bow Incident",
+        overview: "Set in 1885, The Ox-Bow Incident is a searing and realistic portrait of frontier life and mob violence in the American West. First published in 1940, it focuses on the lynching of three innocent men and the tragedy that ensues when law and order are abandoned. The result is an emotionally powerful, vivid, and unforgettable re-creation of the Western novel, which Clark transmuted into a universal story about good and evil, individual and community, justice and human nature.",
+        pages: "247",
+        author: "Walter Van Tilburg Clark",
+        release_date: "February 1, 1943",
+        wikipedia: "The_Ox-Bow_Incident",
+        poster: "img/the_ox-bow_incident.jpg",
+        genre: ["Westerns", "Fiction", "Classics", "Historical Fiction", "Literature", "Novels", "American"]
+    },
+    {
         isbn: 9780316371766,
         title: "The Pentagon's Brain: An Uncensored History of DARPA, America's Top-Secret Military Research Agency",
         overview: "The definitive history of DARPA, the Defense Advanced Research Project Agency, from the author of the New York Times bestseller Area 51 <p> No one has ever written the history of the Defense Department's most secret, most powerful, and most controversial military science R&D agency. In the first-ever history about the organization, New York Times bestselling author Annie Jacobsen draws on inside sources, exclusive interviews, private documents, and declassified memos to paint a picture of DARPA, or \"the Pentagon's brain,\" from its Cold War inception in 1958 to the present. <p> This is the book on DARPA--a compelling narrative about this clandestine intersection of science and the American military and the often frightening results.",
