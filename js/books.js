@@ -574,6 +574,17 @@ const booksData = [
         genre: ["Nonfiction", "Philosophy", "Logic", "Politics", "Science", "Psychology"]
     },
     {
+        isbn: 9781501154553,
+        title: "Cuba: An American History",
+        overview: "In 1961, at the height of the Cold War, the United States severed diplomatic relations with Cuba, where a momentous revolution had taken power three years earlier. For more than half a century, the stand-off continued—through the tenure of ten American presidents and the fifty-year rule of Fidel Castro. His death in 2016, and the retirement of his brother and successor Raúl Castro in 2021, have spurred questions about the country’s future. Meanwhile, politics in Washington—Barack Obama’s opening to the island, Donald Trump’s reversal of that policy, and the election of Joe Biden—have made the relationship between the two nations a subject of debate once more. <p> Now, award-winning historian Ada Ferrer delivers an “important” (The Guardian) and moving chronicle that demands a new reckoning with both the island’s past and its relationship with the United States. Spanning more than five centuries, Cuba: An American History provides us with a front-row seat as we witness the evolution of the modern nation, with its dramatic record of conquest and colonization, of slavery and freedom, of independence and revolutions made and unmade. <p> Along the way, Ferrer explores the sometimes surprising, often troubled intimacy between the two countries, documenting not only the influence of the United States on Cuba but also the many ways the island has been a recurring presence in US affairs. This is a story that will give Americans unexpected insights into the history of their own nation and, in so doing, help them imagine a new relationship with Cuba; “readers will close [this] fascinating book with a sense of hope” (The Economist). <p> Filled with rousing stories and characters, and drawing on more than thirty years of research in Cuba, Spain, and the United States—as well as the author’s own extensive travel to the island over the same period—this is a stunning and monumental account like no other.",
+        pages: "560",
+        author: "Ada Ferrer",
+        release_date: "September 27, 2021",
+        wikipedia: "Cuba:_An_American_History",
+        poster: "img/cuba_an_american_history.jpg",
+        genre: ["History", "Nonfiction", "Politics", "American History", "World History", "Historical"]
+    },
+    {
         isbn: 9780679736394,
         title: "Darkness Visible: A Memoir of Madness",
         overview: "#1 NATIONAL BESTSELLER • A literary tour de force that chronicles a prize-winning author's descent into an almost suicidal depression. <p> \"Compelling ... Harrowing ... a vivid portrait of a debilitating disorder ... It offers the solace of a shared experience.\" — The New York Times <p> A work of great personal courage and a literary tour de force, this bestseller is Styron's true account of his experience of crippling depression. Styron is perhaps the first writer to convey the full terror of depression's psychic landscape, as well as the illuminating path to recovery.",
