@@ -1938,6 +1938,17 @@ const booksData = [
         genre: ["Business", "Leadership", "Nonfiction", "Self Help", "Personal Development", "Management", "Psychology"]
     },
     {
+        isbn: 9781250206626,
+        title: "Strange Bedfellows: Adventures in the Science, History, and Surprising Secrets of STDs",
+        overview: "With curiosity and wit, Strange Bedfellows rips back the bedsheets to expose what really happens when STDs enter the sack. <p> Sexually transmitted diseases have been hidden players in our lives for the whole of human history, with roles in everything from World War II to the growth of the Internet to The Bachelor . But despite their prominence, STDs have been shrouded in mystery and taboo for centuries, which begs the why do we know so little about them? <p> Enter Ina Park, MD, who has been pushing boundaries to empower and inform others about sexual health for decades. With Strange Bedfellows , she ventures far beyond the bedroom to examine the hidden role and influence of these widely misunderstood infections and share their untold stories.<p> Covering everything from AIDS to Zika, Park explores STDs on the cellular, individual, and population-level. She blends science and storytelling with historical tales, real life sexual escapades, and interviews with leading scientists―weaving in a healthy dose of hilarity along the way. <p> The truth is, most of us are sexually active, yet we’re often unaware of the universe of microscopic bedfellows inside our pants. Park aims to change this by bringing knowledge to the masses in an accessible, no-nonsense, humorous way―helping readers understand the broad impact STDs have on our lives, while at the same time erasing the unfair stigmas attached to them. <p> A departure from the cone of awkward silence and shame that so often surrounds sexual health, Strange Bedfellows is the straight-shooting book about the consequences of sex that all curious readers have been looking for.",
+        pages: "320",
+        author: "Ina Park",
+        release_date: "February 16, 2021",
+        wikipedia: "",
+        poster: "img/strange_bedfellows.jpg",
+        genre: ["Nonfiction", "Science", "History", "Medicine", "Medical", "Health"]
+    },
+    {
         isbn: 9780451524935,
         title: "Strength Training Anatomy",
         overview: "Discover for yourself the magic of Strength Training Anatomy, one of the best-selling strength training books ever published! <p> Get an intricate look at strength training from the inside out. Strength Training Anatomy, with over 850,000 copies already sold, brings anatomy to life with more than 400 full-color illustrations. This detailed artwork showcases the muscles used during each exercise and delineates how these muscles interact with surrounding joints and skeletal structures. Like having an X-ray for each exercise, the information gives you a multilateral view of strength training not seen in any other resource. <p> This bestseller also contains new information on common strength training injuries and preventive measures to help you exercise safely. Chapters are devoted to each major muscle group, with 115 total exercises for arms, shoulders, chest, back, legs, buttocks, and abdomen.",
